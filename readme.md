@@ -10,23 +10,23 @@ Neverland RPGのサーバーにpingを送信して
 
 1. リポジトリをクローンします:
 
-   ```shell
-   git clone https://github.com/070ry/nl-bot.git
-   ```
+```shell
+git clone https://github.com/070ry/nl-bot.git
+```
 
 
 2.プロジェクトのディレクトリに移動します:
 
-    ```shell
-    cd nl-bot
-    ```
+```shell
+cd nl-bot
+```
 
 
 3.必要なパッケージをインストールします:
 
-    ```shell
-    npm install
-    ```
+```shell
+npm install
+```
 
 
 4.`.env_template` ファイルの名前を `.env` に変更して、
