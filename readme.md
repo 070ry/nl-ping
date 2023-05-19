@@ -4,7 +4,7 @@ Made by 070ry
 Neverland RPGのサーバーにpingを送信して
 サーバーのオンライン状況を取得できます。
 **実行例:**
-![実行例](image1.png)
+![実行例](https://onews.f5.si/assets/images/screenshot1.png)
 
 ## インストール方法
 
