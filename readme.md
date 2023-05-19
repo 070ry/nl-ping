@@ -11,14 +11,14 @@ Neverland RPGのサーバーにpingを送信して
 1. リポジトリをクローンします:
 
 ```shell
-git clone https://github.com/070ry/nl-bot.git
+git clone https://github.com/070ry/nl-ping.git
 ```
 
 
 2.プロジェクトのディレクトリに移動します:
 
 ```shell
-cd nl-bot
+cd nl-ping
 ```
 
 
