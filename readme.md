@@ -13,16 +13,22 @@ Neverland RPGのサーバーにpingを送信して
    ```shell
    git clone https://github.com/070ry/nl-bot.git
    ```
+
+
 2.プロジェクトのディレクトリに移動します:
 
     ```shell
     cd nl-bot
     ```
+
+
 3.必要なパッケージをインストールします:
 
     ```shell
     npm install
     ```
+
+
 4.`.env_template` ファイルの名前を `.env` に変更して、
   自分用にカスタマイズしてください。
 
@@ -30,6 +36,7 @@ Neverland RPGのサーバーにpingを送信して
 
 Windowsの場合は、`run.bat`を実行することを推奨します。
 Linuxの場合は`run.sh`もしくは`run.zsh`を実行することを推奨します。
+
 
 ホームページ:
 [ここをクリック](https://onews.f5.si/discord/nl)
