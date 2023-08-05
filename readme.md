@@ -42,7 +42,7 @@ npm install
 5.ボットを起動します。
 
 Windowsの場合は、`run.bat`を実行することを推奨します。
-Linuxの場合は`run.sh`もしくは`run.zsh`を実行することを推奨します。
+Linuxの場合は`run.sh`を実行することを推奨します。
 
 
 ホームページ:
