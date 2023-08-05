@@ -6,6 +6,13 @@ Neverland RPGのサーバーにpingを送信して
 **実行例:**
 ![実行例](https://onews.f5.si/assets/images/screenshot1.png)
 
+## テスト済みのバージョン
+node v18.17.0
+discord.js@14.11.0
+dotenv@16.1.1
+moment@2.29.4
+axios@1.4.0
+
 ## インストール方法
 
 1. リポジトリをクローンします:
